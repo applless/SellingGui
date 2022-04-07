@@ -1,4 +1,5 @@
 --// hambugr
+game.StarterGui:SetCore("SendNotification",{Title ="!!!",Text ="Gui is not finished, there may be some bugs",Duration =15})
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
